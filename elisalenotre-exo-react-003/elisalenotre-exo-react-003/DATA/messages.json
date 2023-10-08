@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1, 
+    "sender": "+33111111111",
+    "content": "coucou"
+  }, 
+  {
+    "id": 2,
+    "sender": "+33222222222",
+    "content": "ça va?"
+  },
+  {
+    "id": 3,
+    "sender": "+33444444444",
+    "content": "j'ai passé une super journée ^^"
+  }
+]
